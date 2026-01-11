@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
-        <title>First Post on Testing</title>
-        <link>http://localhost:1313/tags/first-post/</link>
-        <description>Recent content in First Post on Testing</description>
+        <title>First Post on David Mroz</title>
+        <link>http://localhost:1313/DaveloperPL/Portfolio/tags/first-post/</link>
+        <description>Recent content in First Post on David Mroz</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
-        <lastBuildDate>Sun, 11 Jan 2026 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/first-post/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Sun, 11 Jan 2026 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/DaveloperPL/Portfolio/tags/first-post/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>My First Project</title>
-        <link>http://localhost:1313/post/my-first-project/</link>
+        <link>http://localhost:1313/DaveloperPL/Portfolio/post/my-first-project/</link>
         <pubDate>Sun, 11 Jan 2026 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/post/my-first-project/</guid>
-        <description>&lt;img src="http://localhost:1313/cover.jpg" alt="Featured image of post My First Project" /&gt;&lt;p&gt;Your content goes here!&lt;/p&gt;
+        <guid>http://localhost:1313/DaveloperPL/Portfolio/post/my-first-project/</guid>
+        <description>&lt;img src="http://localhost:1313/DaveloperPL/Portfolio/cover.jpg" alt="Featured image of post My First Project" /&gt;&lt;p&gt;Your content goes here!&lt;/p&gt;
 </description>
         </item>
         
