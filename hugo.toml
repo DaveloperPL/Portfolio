@@ -1,0 +1,12 @@
+baseURL = 'https://example.org/'
+languageCode = 'en-us'
+title = 'Testing'
+theme = 'hugo-theme-stack'
+
+[params]
+  favicon = ""
+  description = "Documenting my journey through 2026 projects"
+  # Change the background color of the header (options: blue, black, green, etc.)
+  background_color_class = "bg-black" 
+  # This adds a "featured image" to the top of your homepage
+  featured_image = "/images/gopher.png"
