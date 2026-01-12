@@ -6,13 +6,55 @@
         <description>Recent content in Posts on David Mroz</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
-        <lastBuildDate>Sun, 11 Jan 2026 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/DaveloperPL/Portfolio/post/index.xml" rel="self" type="application/rss+xml" /><item>
-        <title>My First Project</title>
-        <link>http://localhost:1313/DaveloperPL/Portfolio/post/my-first-project/</link>
-        <pubDate>Sun, 11 Jan 2026 00:00:00 +0000</pubDate>
+        <lastBuildDate>Fri, 26 Dec 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/DaveloperPL/Portfolio/post/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Sticking To My Goals</title>
+        <link>http://localhost:1313/DaveloperPL/Portfolio/post/productivity-app/</link>
+        <pubDate>Fri, 26 Dec 2025 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/DaveloperPL/Portfolio/post/my-first-project/</guid>
-        <description>&lt;img src="http://localhost:1313/DaveloperPL/Portfolio/cover.jpg" alt="Featured image of post My First Project" /&gt;&lt;p&gt;Your content goes here!&lt;/p&gt;
+        <guid>http://localhost:1313/DaveloperPL/Portfolio/post/productivity-app/</guid>
+        <description>&lt;img src="http://localhost:1313/DaveloperPL/Portfolio/post/productivity-app/mm.jpg" alt="Featured image of post Sticking To My Goals" /&gt;&lt;p&gt;I was driving to the Schaumburg Library to start a coding session when the idea hit me. I had been struggling with my own schedule—trying to juggle programming, reading, and lifting—but I kept running into the same wall: I was overcomplicating my &amp;ldquo;To-Do&amp;rdquo; lists. I realized that we often fall into the trap of overestimating what we can do in a single day, yet we massively underestimate what we can achieve in a year. I started wondering if that same logic applied to shorter spans—maybe even just a few hours.&lt;/p&gt;
+&lt;p&gt;I realized that completion isn&amp;rsquo;t always the best metric. If you set a goal to &amp;ldquo;Write an App,&amp;rdquo; and you don&amp;rsquo;t finish it that day, you feel like you failed. But if you track the time spent on the craft, you realize that every minute is a deposit into a larger bank of progress. That’s where the idea for my Productivity Timer was born: an app that focuses on the quantity of effort rather than just checking a box.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/DaveloperPL/Portfolio/post/productivity-app/library.jpg&#34;
+	width=&#34;275&#34;
+	height=&#34;183&#34;
+	srcset=&#34;http://localhost:1313/DaveloperPL/Portfolio/post/productivity-app/library_hu_42c29cabf6c41e41.jpg 480w, http://localhost:1313/DaveloperPL/Portfolio/post/productivity-app/library_hu_3dc3ce8a75019d81.jpg 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;Schaumburg Library&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;150&#34;
+		data-flex-basis=&#34;360px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;I spent those first few days at the Schaumburg Library focusing on the core philosophy of the app: gamification and customizability. I wanted to create something that wasn’t just a stopwatch, but a dashboard for your life. By seeing a progress bar fill up for &amp;ldquo;Programming&amp;rdquo; or &amp;ldquo;Reading&amp;rdquo; right on your homescreen, the act of being productive becomes a game you actually want to win. It’s about quantifying the grind so you can see whether you’re truly meeting your goals or just underperforming.&lt;/p&gt;
+&lt;p&gt;The roadmap is ambitious. I started on December 26th and hit a working prototype by New Year&amp;rsquo;s Day. Now, as I refine the styling and look toward Android and smartwatch compatibility, I’m focused on that end-goal: a tool that helps me—and hopefully others—stay on track with what we want done most.&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>The Conant Swim Team</title>
+        <link>http://localhost:1313/DaveloperPL/Portfolio/post/swim-journey/</link>
+        <pubDate>Sun, 01 Dec 2024 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/DaveloperPL/Portfolio/post/swim-journey/</guid>
+        <description>&lt;img src="http://localhost:1313/DaveloperPL/Portfolio/post/swim-journey/CHSPool.jpg" alt="Featured image of post The Conant Swim Team" /&gt;&lt;p&gt;I joined the swim team my sophomore year under the pressure of my friends who had done the sport for the majority of their lives. The summer prior to the start of the season, I started preparing; I practiced daily at the local gym pool with my friend Victor—who, at the time, was on a nearby rival high school&amp;rsquo;s team. My very first 50-meter swim consisted of four stops mid-pool and took me nearly two minutes. As time passed, I managed to swim the full 50 meters in about 1:10. Soon, learning flip-turns and technique brought me down to the 50-second mark I earned at tryouts. I started my first season on the Frosh-Soph team.&lt;/p&gt;
+&lt;p&gt;That first season was gruesome and, at times, truly dreadful. The &amp;ldquo;yards&amp;rdquo; were relentless, and the early morning practices felt like a test of my sanity as much as my endurance. My lungs burned every day, and I often felt miles behind the guys who had been swimming since they were kids. But something clicked in the repetition. The dread turned into a rhythm. By the time the final meet rolled around, I stepped onto the blocks and shaved my time down to a 35-second 50-meter freestyle. I was exhausted, but I was hooked.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/DaveloperPL/Portfolio/post/swim-journey/swim.png&#34;
+	width=&#34;500&#34;
+	height=&#34;600&#34;
+	srcset=&#34;http://localhost:1313/DaveloperPL/Portfolio/post/swim-journey/swim_hu_8d4bcc6fd26ec1b0.png 480w, http://localhost:1313/DaveloperPL/Portfolio/post/swim-journey/swim_hu_ccbc02d47c50ddab.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;Me in my swim uniform&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;83&#34;
+		data-flex-basis=&#34;200px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;I returned for my junior year with a new set of challenges. That fall, before the season even started, I sustained an injury that left my shoulder loose and prone to shifting out of its socket. Every stroke felt like a gamble, but I refused to let it sideline me. I moved up to the Junior Varsity team, where the stakes were higher and the training even more intense. Navigating that injury taught me true discipline and the power of consistency; I had to be smarter about my technique to protect my shoulder while still pushing my limits. I finished that season with a 31-second 50-free. More importantly, I laid the foundation for my future athleticism, proving that I could build speed even when my own body was working against me.&lt;/p&gt;
 </description>
         </item>
         

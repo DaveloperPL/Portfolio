@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Programming on David Mroz</title>
+        <link>http://localhost:1313/DaveloperPL/Portfolio/tags/programming/</link>
+        <description>Recent content in Programming on David Mroz</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>en-us</language>
+        <lastBuildDate>Fri, 26 Dec 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/DaveloperPL/Portfolio/tags/programming/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Sticking To My Goals</title>
+        <link>http://localhost:1313/DaveloperPL/Portfolio/post/productivity-app/</link>
+        <pubDate>Fri, 26 Dec 2025 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/DaveloperPL/Portfolio/post/productivity-app/</guid>
+        <description>&lt;img src="http://localhost:1313/DaveloperPL/Portfolio/CHSPool.jpg" alt="Featured image of post Sticking To My Goals" /&gt;&lt;p&gt;I was driving to the Schaumburg Library to start a coding session when the idea hit me. I had been struggling with my own schedule—trying to juggle programming, reading, and lifting—but I kept running into the same wall: I was overcomplicating my &amp;ldquo;To-Do&amp;rdquo; lists. I realized that we often fall into the trap of overestimating what we can do in a single day, yet we massively underestimate what we can achieve in a year. I started wondering if that same logic applied to shorter spans—maybe even just a few hours.&lt;/p&gt;
+&lt;p&gt;I realized that completion isn&amp;rsquo;t always the best metric. If you set a goal to &amp;ldquo;Write an App,&amp;rdquo; and you don&amp;rsquo;t finish it that day, you feel like you failed. But if you track the time spent on the craft, you realize that every minute is a deposit into a larger bank of progress. That’s where the idea for my Productivity Timer was born: an app that focuses on the quantity of effort rather than just checking a box.&lt;/p&gt;
+&lt;p&gt;(Space for an image of your laptop or the library interior)&lt;/p&gt;
+&lt;p&gt;I spent those first few days at the Schaumburg Library focusing on the core philosophy of the app: gamification and customizability. I wanted to create something that wasn’t just a stopwatch, but a dashboard for your life. By seeing a progress bar fill up for &amp;ldquo;Programming&amp;rdquo; or &amp;ldquo;Reading&amp;rdquo; right on your homescreen, the act of being productive becomes a game you actually want to win. It’s about quantifying the grind so you can see whether you’re truly meeting your goals or just underperforming.&lt;/p&gt;
+&lt;p&gt;The roadmap is ambitious. I started on December 26th and hit a working prototype by New Year&amp;rsquo;s Day. Now, as I refine the styling and look toward Android and smartwatch compatibility, I’m focused on that end-goal: a tool that helps me—and hopefully others—stay on track with what we want done most.&lt;/p&gt;
+</description>
+        </item>
+        
+    </channel>
+</rss>
